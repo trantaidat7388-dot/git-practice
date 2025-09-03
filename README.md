@@ -1,4 +1,4 @@
-# \# Giới thiệu bản thân (phiên bản conflict-demo)
+# \# Giới thiệu bản thân(phiên bản conflict-demo)
 
 # Tên: Trần Tấn Đạt
 
